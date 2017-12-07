@@ -1,5 +1,6 @@
-body {padding: 10; margin: 0;} 
-p, h1, a {font-family: monospace; margin: 0; color:black;}
-p {margin-top: 10px;}
+body {padding: 10px;} 
+p, h1, a, input, button {font-family: monospace; margin: 0; color:black; font-weight: normal;}
+p {margin-top: 20px;}
 canvas {border : solid black 1px;}
 img {display: block;}
+input, button {border: 1px black solid; margin:2px;}

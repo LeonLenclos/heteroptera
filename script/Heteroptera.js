@@ -4,6 +4,7 @@ function Heteroptera (x, y, mother) {
 	this.y = y;
 
 	this.direction = floor(random(4)); // UP=0 RIGHT=1 DOWN=2 LEFT=3	
+	this.foundFood = false;
 
 	// init the brain
 	this.brain = new Brain();
