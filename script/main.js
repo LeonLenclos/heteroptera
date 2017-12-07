@@ -20,7 +20,8 @@ var heteropteras =[];
 function preload () {
 	// load one images per directions
 	for (var i = 0; i < 4; i++) {
-		heteropterasImgs[i] = loadImage("../img/8-" + i + ".png");
+		heteropterasImgs[i] = loadImage("img/8-" + i + ".png");
+
 	}
 }
 
