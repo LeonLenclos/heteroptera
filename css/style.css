@@ -1,0 +1,5 @@
+body {padding: 10; margin: 0;} 
+p, h1, a {font-family: monospace; margin: 0; color:black;}
+p {margin-top: 10px;}
+canvas {border : solid black 1px;}
+img {display: block;}
